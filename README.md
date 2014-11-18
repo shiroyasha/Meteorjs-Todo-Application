@@ -1,5 +1,5 @@
-Meteorjs Todo Application
-=========================
+Meteor.js Todo Application
+==========================
 
 [MeteorJS](https://www.meteor.com/) stands out among the recent big Javascript
 frameworks with its radical view on creating web applications. It seamlessly
