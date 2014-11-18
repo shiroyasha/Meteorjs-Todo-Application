@@ -1,4 +1,4 @@
-Meteorjs-Todo-Application
+Meteorjs Todo Application
 =========================
 
 [MeteorJS](https://www.meteor.com/) stands out among the recent big Javascript
